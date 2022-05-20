@@ -1,0 +1,17 @@
+.main-tables-container {
+    justify-content: center;
+    overflow-x: unset;
+}
+
+.body-cards--container {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container--slider {
+    justify-content: center;
+    overflow-x: unset;
+}
